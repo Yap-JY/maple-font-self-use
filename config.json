@@ -7,7 +7,7 @@
   "feature_freeze": {
     "cv01": "enable",
     "cv02": "ignore",
-    "cv03": "ignore",
+    "cv03": "enable",
     "cv04": "ignore",
     "cv31": "ignore",
     "cv32": "ignore",
@@ -21,13 +21,13 @@
     "cv98": "ignore",
     "cv99": "ignore",
     "ss01": "enable",
-    "ss02": "ignore",
+    "ss02": "enable",
     "ss03": "ignore",
     "ss04": "ignore",
     "ss05": "ignore",
     "ss06": "ignore",
     "ss07": "ignore",
-    "ss08": "ignore",
+    "ss08": "enable",
     "zero": "enable"
   },
   "nerd_font": {
